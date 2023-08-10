@@ -22,17 +22,11 @@ I am an AI/ML developer......
 ## Summary Of My Journey
 👩‍💻 Started as a cartoonist and then fell in love with the eyes of the computer.
 
-🧠 MTech | IIT Indore | Electrical Engineering | Communication and Signal Processing | CGPA 8.12
+🧠 MTech | IIT Indore | Electrical Engineering | Communication and Signal Processing | CGPA 8.12.
 
-👯‍♀️ Did thesis project in computer vision area with Deep learning algorithms.The link is **[here](https://github.com/Pshubham1012/Crowd-counting-from-single-image-using-deep-learning-models)**
+👯‍♀️ Did thesis project in computer vision area with Deep learning algorithms.The link is **[here](https://github.com/Pshubham1012/Crowd-counting-from-single-image-using-deep-learning-models)**.
 
-🤔 I'm looking for research work in computer vision with deep learning.
+🤔 I'm looking for research work in computer vision with deep learning algorithms.
 
-💬 Ask me about...
 
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
 
