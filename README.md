@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a AI/ML developer......
+I am an AI/ML developer......
 
 
 ## 🔗 Links
@@ -24,7 +24,7 @@ I am a AI/ML developer......
 
 🧠 MTech | IIT Indore | Electrical Engineering | Communication and Signal Processing | CGPA 8.12
 
-👯‍♀️ Did thesis project in computer vision area with Deep learning algorithms.The link is**[here](https://github.com/Pshubham1012/Crowd-counting-from-single-image-using-deep-learning-models)**
+👯‍♀️ Did thesis project in computer vision area with Deep learning algorithms.The link is **[here](https://github.com/Pshubham1012/Crowd-counting-from-single-image-using-deep-learning-models)**
 
 🤔 I'm looking for research work in computer vision with deep learning.
 
